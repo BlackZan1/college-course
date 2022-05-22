@@ -6,4 +6,4 @@
 
 <a id="raw-url" href="./course_work.docx" target="_blank" download>Скачать курсовую работу</a>
 <br />
-<a id="raw-url" target="_blank href="https://samurai-io.web.app">Демо</a>
+<a id="raw-url" target="_blank" href="https://samurai-io.web.app">Демо</a>
