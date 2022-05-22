@@ -4,4 +4,5 @@
 
 Курсовая работа в КГУСТА 2022 года
 
-<a id="raw-url" href="./course_work.docx">Скачать курсовую работу</a>
+<a id="raw-url" download href="./course_work.docx">Скачать курсовую работу</a>
+<a id="raw-url" href="https://samurai-io.web.app">Демо</a>
